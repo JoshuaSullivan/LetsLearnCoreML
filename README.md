@@ -21,4 +21,12 @@ Looking for an extra challenge? Consider trying to
 * **Easy-ish** — Follow [this tutorial](https://medium.com/towards-data-science/introduction-to-core-ml-conversion-tool-d1466bf10018) to convert a Caffe model into a MLModel and use it in your app. *NOTE:* This requires a good deal of faffing about getting an appropriate Python (2.7) environment set up.
 * **Moderate** — Use AVFoundation to run the model against live video.
 * **Advanced** — Convert an arbitrary model from the [Berkeley Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) and use it in an app.
-* **Master** — Design and train your own machine learning model, publish a paper on arXiv.org about it. 
+* **Master** — Design and train your own machine learning model, publish a paper on arXiv.org about it.
+
+#### Fun Fact
+
+The training data for the squeezenet model  contains a class for hotdogs:
+
+    934: 'hotdog, hot dog, red hot'
+
+Use this information as you see fit.
